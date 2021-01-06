@@ -34,7 +34,7 @@ def dupdatedownload( results, check):
 def updatedownload(results, check):
     print("delay")
     import requests
-    ploads = {'current': system_version, 'total': 25}
+    ploads = {'current': system_version, 'total': 1}
     r = requests.get('https://lew6zlwoa6.execute-api.us-east-2.amazonaws.com/raspInnocent', params=ploads)
     import json
     y = json.loads(r.text)
@@ -79,7 +79,7 @@ def sysupdate( results, check):
     print("delay")
     import requests
 
-    ploads = {'current': system_version, 'total': 25}
+    ploads = {'current': system_version, 'total': 1}
     r = requests.get('https://lew6zlwoa6.execute-api.us-east-2.amazonaws.com/raspInnocent', params=ploads)
     import json
     y = json.loads(r.text)
