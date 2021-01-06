@@ -1,0 +1,64 @@
+
+
+
+    INVOICE
+
+
+
+
+
+
+
+    Bill U         Tn          ok           :nown                                   Invoice No.:20-200-000008
+         ,                                         Date:       7/15/2020
+                                                   Due date:   7/15/2020
+                                                   Payment statu                                                               Ps                                                                a:                                                                 id
+
+     No.             Item             QuantityUnit price                                                        Tax Discount  Total
+    1  knife                              1     10.00---   0.00%       10.00
+    2  phone                              2     12.00---   0.00%       24.00
+    3  sick                               1     120.00---   0.00%      120.00
+    4  usb                                1      0.00---   0.00%       0.00
+                                                      Discount:           -$0.00
+
+                                                      Subtotal:          $154.00
+                                                      Total:             $154.00
+
+                                                      Payment method:
+                                                      Cash               $154.00
+                                                      Paid amount:       $154.00
+                                                      Amount due:          $0.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Created with Aronium - www.aronium.com                                Page 1
